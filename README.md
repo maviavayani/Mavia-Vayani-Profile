@@ -8,8 +8,6 @@ I am a software engineering student from UIT University
 with a focus on Python and Java and knowledge in HTML,
 CSS and JAVASCRIPT
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=programmerabdul&label=Profile%20views&color=0e75b6&style=flat" alt="programmerabdul" /> </p>
-
 * 🌍  I'm live in Karachi, Pakistan
 - 🌱 I’m currently learning **Softwere Engineering**
 
