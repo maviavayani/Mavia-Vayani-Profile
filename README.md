@@ -11,7 +11,7 @@ CSS and JAVASCRIPT
 * 🌍  I'm live in Karachi, Pakistan
 - 🌱 I’m currently learning **Softwere Engineering**
 
-* 🖥️  See my [Portfolio](https://mavia-portfolio.vercel.app/) 
+* 🖥️  See my [Portfolio](https://mavia-portfolio.vercel.app/ target='blank') 
 <!-- * ⚡  See my [LikedIn Profile](https://www.linkedin.com/in/abdul-rehman-jiwani-9054a5230) -->
 * ✉️  You can contact me at [maviavayani43@gmail.com](mailto:maviavayani43@gmail.com)
 
